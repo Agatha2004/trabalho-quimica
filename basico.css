@@ -1,0 +1,122 @@
+body{
+  background-image: url(fundo.jpeg);
+  background-repeat: repeat;
+  margin: 3%;
+}
+
+header,
+footer{
+  background-color: #ffffffc9;
+}
+
+header{
+  border: solid 1px black;
+  padding: 2%;
+  padding-bottom: 1%;
+  font-family: 'Lobster', cursive;
+  color: black;
+}
+
+nav{
+  position: fixed;
+  bottom: 22px;
+  background-color: #f0f8ffeb;
+  float: left;
+  width: 150px;
+  height: 67%;
+  border: solid 1px black;
+  padding: 2%;
+  margin-top: 1%;
+  font-size: 125%;
+}
+
+main{
+  margin-left: 15%;
+}
+
+footer{
+  position: fixed;
+  bottom: 22px;
+  right: 3%;
+  float: right;
+  width: 225px;
+  height: 67%;
+  border: solid 1px black;
+  padding: 2%;
+  margin-top: 1%;
+}
+
+header h1,
+header h2,
+header h3{
+  margin: 3px;
+}
+
+header h1::before{
+  content: "Química"
+}
+
+header h3::before{
+  content: "Prof.: Carlos Zacchi"
+}
+
+header h2{
+  text-align: center;
+}
+
+nav ul{
+  padding-left: 5%;
+}
+
+nav a{
+  color: black;
+}
+
+nav a:visited{
+  text-decoration: none;
+}
+
+nav a .atual{
+  color: blue;
+}
+
+main h2,
+main h3,
+main h4,
+main h5{
+  background-color: #272424de;
+}
+
+main p,
+main ul{
+  background-color: #ffffffed;
+}
+
+main a{
+  color: red;
+}
+
+footer .video-aula h4::before{
+  content: "Assista: ";
+}
+
+footer iframe{
+  border: solid 1px black;
+  margin: 1%;
+  padding: 1%;
+}
+
+footer .mapa-mental h4::before{
+  content: "Mapa Mental: "
+}
+
+footer img{
+  width: 225px;
+  height: 150px;
+  border: solid 1px black;
+  padding: 1%;
+}
+
+#exp{
+  width: 75%;
+}
