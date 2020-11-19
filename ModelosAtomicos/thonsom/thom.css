@@ -1,0 +1,38 @@
+p{
+  padding: 1%;
+  font-size: 120%;
+  width: 70%;
+
+}
+
+main h3{
+  font-size: 175%;
+  color: white;
+}
+
+.texto{
+  margin-left: 2%;
+  width: 500px;
+  display: inline-block;
+}
+
+.texto p{
+  width: 85%;
+  padding: 2%;
+}
+
+ .texto h4{
+   color: white;
+   font-size: 150%;
+ }
+
+.texto ul{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.experimento img{
+  display: inline-block;
+  width: 500px;
+  height: 400px;
+}

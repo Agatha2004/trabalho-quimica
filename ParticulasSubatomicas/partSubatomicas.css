@@ -1,0 +1,32 @@
+body{
+  font-size: 110%;
+}
+
+main p,
+article .spoiler{
+  padding: 1%;
+  width: 73%;
+}
+
+main img{
+  width: 30%;
+  float: left;
+  margin-right: 5%;
+}
+
+article .importante{
+  float: left;
+  font-size: 45px;
+  width: 50px;
+  height: 50px;
+}
+
+article .spoiler::before{
+  content: "SPOILER : ";
+}
+
+article .spoiler,
+article .spoiler a{
+  color: white;
+  background-color: black;
+}

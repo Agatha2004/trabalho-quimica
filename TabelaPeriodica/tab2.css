@@ -1,0 +1,98 @@
+main h3{
+  color: white;
+  font-size: 200%;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: -1%;
+}
+
+main p{
+  padding: 2%;
+}
+
+.periodos p{
+  width: 65%;
+  margin: 2%;
+  padding: 1%;
+}
+
+.periodos img{
+  margin-left: 1%;
+  height: 180px;
+}
+
+.familia .Intro {
+  margin-left: 1%;
+  float: left;
+  width: 600px;
+  height: 180px;
+}
+
+.familia .quadro{
+  margin-right: 5px;
+  width: 350px;
+  height: 300px;
+}
+
+.familia .Intro p{
+  margin-right: 15%;
+}
+
+.familia .caracteristicas .tab{
+  width: 70%;
+  height: 50%;
+  margin-left: 3%;
+  margin-top: 5%;
+  clear: left;
+}
+
+.familia .caracteristicas p{
+  width: 66%;
+  margin-left: 3%;
+  margin-top: 1%;
+  border: double 5px #ffffffed;
+}
+
+#alcalinos{
+  background-color: #ffa500c4;
+}
+
+#terrosos{
+  background-color: #ffff00bf;
+}
+
+#metais{
+  background-color: #5050bbe6;
+}
+
+#boro{
+  background-color: #ab60d6eb;
+}
+
+#carbono{
+  background-color: #c1c1c1d4;
+}
+
+#nitrogenio{
+  background-color: #7cff95ba;
+}
+
+#calcogenios{
+  background-color: #ef59dfd6;
+}
+
+#halogenios{
+  background-color: #5dd5ffb8;
+}
+
+#gases{
+  background-color: #8a408af0;
+}
+
+#lantanideos{
+  background-color: #e86a6ae6;
+}
+
+#actinideos{
+  background-color: #d48fb0d9;
+}

@@ -1,0 +1,70 @@
+main p,
+article .spoiler{
+  padding: 1%;
+  margin: 1%;
+  width: 73%;
+}
+
+main img{
+  float: left;
+  height: 100px;
+}
+
+.Anion p,
+.Cation p{
+  height: 80px;
+  font-size: 110%;
+}
+
+.Anion img{
+  margin-left: -85px;
+}
+
+.Cation img{
+  margin-left: 15px;
+}
+
+article .importante{
+  float: left;
+  font-size: 40px;
+  margin-bottom: 10%;
+}
+
+article .definicao{
+  font-size: 125%;
+}
+
+article .spoiler{
+  color: white;
+  background-color: black;
+}
+
+article .exemplo{
+  display: inline-block;
+  padding: 2%;
+  border: solid 1px white;
+  margin-left: 3%;
+}
+
+article .ind{
+  position: relative;
+  right: 3px;
+}
+
+article #simples .ind{
+  margin-left: 5px;
+  font-size: 175%;
+  background-color: orange;
+}
+
+article #simples{
+  background-color: orange;
+}
+
+article #exCation{
+  background-color: yellow;
+}
+
+article #exAnion{
+  background-color: red;
+}

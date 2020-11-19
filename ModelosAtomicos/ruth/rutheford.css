@@ -1,0 +1,34 @@
+main h2,
+main h3{
+  color: white;
+  font-size: 175%;
+}
+
+main p{
+  margin-left: 1%;
+  padding: 1%;
+  width: 650px;
+}
+
+.experimento p{
+  margin: 1.5%;
+  display: inline-block;
+  width: 400px;
+}
+
+.experimento img{
+  height: 230px;
+  display: inline-block;
+  width: 500px;
+  margin: auto;
+}
+
+main h3{
+  margin-top: 2px;
+}
+
+main ul{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width: 550px;
+}
